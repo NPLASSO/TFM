@@ -5,7 +5,7 @@ MAINTAINER name :Ignacio Pérez Lasso de la Vega mail: ignacio.perezlasso@alumno
 ENV SPARK_VERSION 2.4.5
 ENV HADOOP_VERSION 2.7
 ENV JAVA_VERSION 1.8.0
-ENV MASTER_DNS sparkmaster.ddns.net
+ENV MASTER_DNS 172.31.19.209
 ENV PYTHON_VERSION 3.7.6
 
 #Install Java and set up environment variable
